@@ -23,3 +23,7 @@ Spaces in arbitrary targets
 ### Activity 5
 
 Blockquote tag syntax
+
+### Activity 6
+
+basic links
