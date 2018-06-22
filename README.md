@@ -35,3 +35,7 @@ other types of links
 ### Activity 8
 
 Simple formatted list
+
+### Activity 9
+
+Formatted complex list
