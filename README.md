@@ -42,4 +42,4 @@ Formatted complex list
 
 ### Activity 10
 
-Images and objects
+Images
