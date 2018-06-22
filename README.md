@@ -31,3 +31,7 @@ basic links
 ### Activity 7
 
 other types of links
+
+### Activity 8
+
+Simple formatted list
