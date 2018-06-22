@@ -27,3 +27,7 @@ Blockquote tag syntax
 ### Activity 6
 
 basic links
+
+### Activity 7
+
+other types of links
