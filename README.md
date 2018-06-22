@@ -39,3 +39,7 @@ Simple formatted list
 ### Activity 9
 
 Formatted complex list
+
+### Activity 10
+
+Images and objects
