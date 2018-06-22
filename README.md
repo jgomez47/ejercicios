@@ -47,3 +47,7 @@ Images
 ### Activity 11
 
 Simple table
+
+### Activity 12
+
+Advanced table
